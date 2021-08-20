@@ -25,7 +25,7 @@
          "subjectID":2
       }
    ],
-   "logActions":[
+   "logActions"
       {
          "LaboratoryID":1,
          "UserID":30,
@@ -39,5 +39,4 @@
             }
          ]
       }
-   ]
 }
