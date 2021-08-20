@@ -25,18 +25,17 @@
          "subjectID":2
       }
    ],
-   "logActions"
-      {
-         "LaboratoryID":1,
-         "UserID":30,
-         "ActionsLabList":[
-            {
-               "ActionID":1,
-               "Number":1,
-               "ObjectID":1,
-               "ServerDate":"2021-01-09",
-               "BeginTime":1200
-            }
-         ]
-      }
+   "logActions":{
+      "LaboratoryID":1,
+      "UserID":30,
+      "ActionsLabList":[
+         {
+            "ActionID":1,
+            "Number":1,
+            "ObjectID":1,
+            "ServerDate":"2021-01-09",
+            "BeginTime":1200
+         }
+      ]
+   }
 }
