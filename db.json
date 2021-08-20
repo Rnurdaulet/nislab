@@ -1,1 +1,24 @@
-
+{
+   "userID":59,
+   "lastName":"Тест",
+   "firstName":"Тестов",
+   "secondName":"Тестович",
+   "classID":0,
+   "classNameRU":null,
+   "classNameKZ":null,
+   "classNameEN":null,
+   "schoolID":0,
+   "schoolNameRU":null,
+   "schoolNameKZ":null,
+   "schoolNameEN":null,
+   "languageLearningID":0,
+   "languageLearningRU":null,
+   "languageLearningKZ":null,
+   "languageLearningEN":null,
+   "laboratoryID":1,
+   "laboratoryNameRU":"Разделение смесей",
+   "laboratoryNameKZ":"Разделение смесей",
+   "laboratoryNameEN":"Разделение смесей",
+   "sectionID":4,
+   "subjectID":2
+}
